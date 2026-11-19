@@ -1,14 +1,12 @@
-# Java Básico - Exercícios 31 a 50
+# Java Básico - Exercícios selecionados
 
-20 exercícios do bloco intermediário da apostila. Foram selecionados os exercícios 31 a 50, o conjunto final e mais complexo da lista graduada de 50 atividades.
+20 exercícios: 31–40 (intermediário simples) e 41–50 (intermediário, o nível mais alto disponível nesta apostila). O material não apresenta um bloco chamado “Avançado”; portanto, os exercícios 41–50 formam a seleção dos 10 mais avançados disponíveis.
 
 ## Execução
 
-Requer JDK 17+. Compile e execute a classe desejada:
+Requer JDK 17 ou superior. Compile e execute a classe desejada:
 
 ```powershell
 javac -encoding UTF-8 -d out src/*.java
-java -cp out NomeDaClasse
+java -cp out Exercicio41
 ```
-
-Cada exercício fica em uma classe independente dentro de `src/`.
